@@ -1,2 +1,2 @@
-# ntcl
+# NTCL
 Nuclear tensor contraction library
