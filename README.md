@@ -1,3 +1,3 @@
 # NTCL - Nuclear Tensor Contraction Library
 
-First public release is in preparation.
+This project has moved to https://gitlab.com:ntcl/ntcl.git.
